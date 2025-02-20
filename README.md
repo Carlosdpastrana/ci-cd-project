@@ -41,7 +41,7 @@ This project sets up a **full-stack application** with a **CI/CD pipeline** usin
 ---
 
 ## 📷 **Screenshot**
-(Add a screenshot of your app if you have one.)
+
 
 ---
 
